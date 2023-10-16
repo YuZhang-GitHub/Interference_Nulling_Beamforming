@@ -1,6 +1,6 @@
 # Model-based Power Prediction
 <p align="justify">
-  This is the simulation codes and results for the model-based signal and interference prediction.
+  These are the simulation codes and results for the model-based signal and interference prediction.
 </p>
 
 
@@ -9,7 +9,7 @@
 We simulate the combinations of the following four cases for the FC-based prediction
 
 - Prediction quantity: Signal or interference.
-- Number of antennas: M=8 and M=256.
+- Number of antennas: M=8 or M=256.
 
 For clarity, we provide the results for interference prediction with M=256. You can easily modify the codes to run the other three cases.
 
