@@ -1,6 +1,6 @@
 # FC-based Power Prediction
 <p align="justify">
-  This is the simulation codes and results for the fully-connected (FC) neural network based signal and interference prediction.
+  These are the simulation codes and results for the fully-connected (FC) neural network-based signal and interference prediction.
 </p>
 
 # How to run?
@@ -8,7 +8,7 @@
 We simulate the combinations of the following four cases for the FC-based prediction
 
 - Prediction quantity: Signal or interference.
-- Number of antennas: M=8 and M=256.
+- Number of antennas: M=8 or M=256.
 
 To generate the results:
 
@@ -20,4 +20,4 @@ To generate the results:
 Note:
 
 - Number of realizations can also be changed, which is used for averaging the performance.
-- These four values will be the horizontal lines in Fig. 5 of the paper.
+- These four values constitute the horizontal lines in Fig. 5 of the paper.
